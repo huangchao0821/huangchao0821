@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <img src="https://badgen.net/badge/CSS/3/8DD6F9?icon=" />
 <img src="https://badgen.net/badge/JavaScript/ES13/46A2F1?icon=" />
 <img src="https://badgen.net/badge/Python/3.11/007ACC?icon=" />
-<img src="https://badgen.net/badge/Java/18/3F2CBE?icon=" />
 <img src="https://badgen.net/badge/Node.js/19.6/F06292?icon=" />
 <img src="https://badgen.net/badge/React/18.2/EF5350?icon=" />
     
