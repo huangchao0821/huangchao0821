@@ -1,4 +1,4 @@
-# Welcome to HuangChao's GitHub Page!
+# Welcome to HuangChao's GitHub Page!👏
 
 This is where I share my projects and ideas. Thanks for stopping by!
 
@@ -10,6 +10,7 @@ This is where I share my projects and ideas. Thanks for stopping by!
 
 ## Skills
 
-- 💻 Programming Languages: Python, JavaScript, C++
+- 💻 Programming Languages: Python, JavaScript, TypeScript
 - 🌐 Front-end Development: React, Vue, HTML/CSS
+- 🖥️ Back-end Development: FastAPI, RESTful APIs, SQLAlchemy, Celery
 - 🔧 Tools: Git, Docker, Kubernetes
